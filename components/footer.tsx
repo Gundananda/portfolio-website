@@ -39,9 +39,6 @@ export function Footer() {
 
             {/* Right side */}
             <div className="text-center md:text-right">
-              <p className="text-sm text-muted-foreground flex items-center gap-2">
-                Made with <Heart className="h-4 w-4 text-red-500 fill-red-500" /> using Next.js
-              </p>
               <p className="text-xs text-muted-foreground mt-1">2025 Gunda Sai Shivananda</p>
             </div>
           </div>
