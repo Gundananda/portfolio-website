@@ -14,7 +14,7 @@ export function AboutSection() {
     {
       icon: Award,
       title: "Achievements",
-      description: "Published researcher, certified data scientist, and technical fest leader with 500+ participants.",
+      description: "Published researcher and technical fest co-lead with 500+ participants.",
       color: "bg-pink-500/10 text-pink-600",
     },
     {
